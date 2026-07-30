@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\bin\Debug\net8.0\NuGetPackageExplorer.exe
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\bin\Debug\net8.0\NuGetPackageExplorer.deps.json
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\bin\Debug\net8.0\NuGetPackageExplorer.runtimeconfig.json
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\bin\Debug\net8.0\NuGetPackageExplorer.dll
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\bin\Debug\net8.0\NuGetPackageExplorer.pdb
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\NuGetPackageExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\NuGetPackageExplorer.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\NuGetPackageExplorer.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\NuGetPackageExplorer.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\NuGetPackageExplorer.dll
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\refint\NuGetPackageExplorer.dll
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\NuGetPackageExplorer.pdb
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\NuGetPackageExplorer.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\NuGetPackageExplorerApp Folder\NuGetPackageExplorer\obj\Debug\net8.0\ref\NuGetPackageExplorer.dll
